@@ -1,1 +1,1 @@
-# Handwriting-recognition-digit
+# Handwriting-recognition-(digit)
